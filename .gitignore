@@ -1,0 +1,9 @@
+# Ignore generated data files
+features_dataset_v2_multi_window.csv
+
+# Ignore generated plots
+plots/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
